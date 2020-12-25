@@ -1,4 +1,4 @@
-package HomeWork1.task3;
+package homeWork1.task3;
 
 public class Triangle extends Figure{
     public Triangle(String name) {

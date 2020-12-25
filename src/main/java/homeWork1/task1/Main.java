@@ -1,4 +1,4 @@
-package HomeWork1.task1;
+package homeWork1.task1;
 
 public class Main {
 
