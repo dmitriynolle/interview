@@ -2,13 +2,13 @@ package homeWork4;
 
 import java.sql.Time;
 
-public class daySchedule {
+public class DaySchedule {
     Time time;
     String name;
     Time timeFilm;
     Double price;
 
-    public daySchedule(Time time, String name, Time timeFilm, Double price){
+    public DaySchedule(Time time, String name, Time timeFilm, Double price){
         this.time = time;
         this.name = name;
         this.timeFilm = timeFilm;
